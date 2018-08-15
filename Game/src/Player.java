@@ -5,7 +5,6 @@ import java.util.Random;
 import java.util.Scanner;
 
 import javax.swing.JOptionPane;
-import javax.xml.bind.ValidationEvent;
 public class Player{
 		PieceSet pieceSet;
 		Game game;
