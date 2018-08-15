@@ -5,6 +5,7 @@ import javax.swing.Icon;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
 public class Board{
+	//<--------------------------this is board class------------------------------------->
 	int colourOfSquare;
 // Internal Square class for Each Individual Squares 
 	class Square  extends JButton{
